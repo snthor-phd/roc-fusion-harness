@@ -1,0 +1,99 @@
+{
+ "version": "1.0.1",
+ "generator": {
+  "key": "qwen35_122b",
+  "label": "Qwen3.5-122B-A10B Q4_K_S",
+  "weights": {
+   "Qwen3.5-122B-A10B-Q4_K_S-00001-of-00003.gguf": "7ce20cdf3b3becc14f5e3db79c3f9200c2e98c80cb7a5811a8f1caf90163e24d",
+   "Qwen3.5-122B-A10B-Q4_K_S-00002-of-00003.gguf": "d44186dad0237821aec4ef172f009abce34a67c7cfc7aeb340f46d580e6fa876",
+   "Qwen3.5-122B-A10B-Q4_K_S-00003-of-00003.gguf": "d8056a5b30681878dd7aa805290b67114d838660d14523bcb56f4bb1cc1aaab3"
+  },
+  "engine": "version: 0.7.0 (build 11669, commit 620d2225c)",
+  "server": "ultra-llm-svc server-v1.1 via gateway :8100 (generation); /opt/homebrew/bin/llama-server under a gateway lease (V5)",
+  "server_args": [
+   "--n-gpu-layers",
+   "999",
+   "-c",
+   "40960",
+   "-c",
+   "65536",
+   "--jinja",
+   "--reasoning-format",
+   "none",
+   "-np",
+   "1"
+  ],
+  "metal_tensor_api": "default (on); GGML_METAL_TENSOR_DISABLE unset",
+  "sampling_capped": {
+   "temperature": 0.6,
+   "top_p": 0.95,
+   "top_k": 20,
+   "min_p": 0.0
+  },
+  "think_cap": 8000,
+  "answer_max": 16384,
+  "force_close": "\n\nConsidering the limited time, I have to give the final answer based on the thinking so far.\n"
+ },
+ "grounding": "G3",
+ "web_research": "off",
+ "reasoning": "capped",
+ "detectors": {
+  "V1": "source and morphology check (p2/v1.py)",
+  "V3": "generator token log-probabilities",
+  "V5": {
+   "model": "gemma4_26b",
+   "weights": "f2c28b3dc4776931ac6f879e11f203dec637ea0f14267a86ec8f6165f63f293f"
+  },
+  "V2": "off"
+ },
+ "fusion": {
+  "rule": "2of3",
+  "detectors": [
+   "V3",
+   "V5"
+  ],
+  "effective": "both V3 and V5 must flag (V1 contradictions always flagged)",
+  "thresholds": {
+   "V3": 0.3988508439312379,
+   "V5": 0.0
+  },
+  "fpr_target": 0.2
+ },
+ "repair": "one pass on the cell's own G3 packet; re-check with the same rule; flagged sentences cut",
+ "extractor": {
+  "model": "claude-opus-5-5",
+  "version": "x2.1-cli"
+ },
+ "judge": {
+  "model": "claude-opus-5-5",
+  "rubric": "r1",
+  "effort": "medium",
+  "via": "Claude Code CLI on the Max plan",
+  "cli": "2.1.303 (Claude Code)"
+ },
+ "opendata": {
+  "LogosBible_SBLGNT": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "byztxt_byzantine-majority-text": "27a45ff1b7be6c17ccbfeac414f3f55732ae8e28",
+  "morphgnt_sblgnt": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "nathans_lxx-swete": "26bad3eb42bba98471d154c954e36a6f30a0279d",
+  "openscriptures_HebrewLexicon": "21c9add13bc727d3a951361778e97e3ff7afd1ce",
+  "openscriptures_morphhb": "3d15126fb1ef74867fc1434be1942e837932691f"
+ },
+ "code": {
+  "p2/harness.py": "b53f1d4d9ab05df4a739bae71049e2635fa61ef9d92a7ee4efc640191abc5d61",
+  "p2/prompts.py": "ec96f3305249a8fca368a02e75bed949bf532ccb349871d6a7fafd48b0f7ba4b",
+  "p2/texts.py": "61b21b3b65b271ebeb1da289bb49bca0a7b3d522dc689d2cee3156d5065f09a2",
+  "p2/morph.py": "b6b55b1b238daa3de76389f5445b826d652a04bbb1235b46139fe73de054c2f2",
+  "p2/witnesses.py": "360b9294a26bab7c3468a496a70e0b52872bb5bc9a4cdf21f14007b70334f132",
+  "p2/extract.py": "b5a55752b4d3f4e656b8387b0582a46d17978df529805bdca79e5e79ddafb5b6",
+  "p2/v1.py": "71c64b1ec756bd4a0341cd2345300464ceb78270a9f7ccc75981692f4376b788",
+  "p2/judge.py": "f61de3fed2de0c2e6cd2e486e274e6eaa5ddb020170019618f1e9526fc487fdc",
+  "p2/detectors.py": "8858cb4a7e24f2927cd525e00962c07c2bc7b5fb8dde3330da27c2fff1d27362",
+  "p2/fusion.py": "f56b69939205e1bedbf8e3663207f8e4a1adb11ccf0acc78c1b45c86b1eb63f3",
+  "p2/repair.py": "8a0178ff745976c5f9ca88cf44890d253710ed768f92d06bc8b3fb796e45fa54",
+  "p2/stagec.py": "6ef6f1c7873da067c98e1e717ef3c24b01a0f59017d052081fa6e91f241a2ef5",
+  "p2/staged.py": "b4e830b07359ff5149eedcecb108e8680e9976a75591c2f6c2414df870dd8552",
+  "p2/claude_cli.py": "d7434fb9bb3737ccc88cc5bda4ac82c63bb5b1f9748f87e46f36405ceb73e657",
+  "p2/labelcli.py": "b4a84de2dce3d1a77f113aa5f8b26a12d5a86a76c3595e5e5f179c67fb906743"
+ }
+}

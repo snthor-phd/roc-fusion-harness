@@ -1,0 +1,6498 @@
+[
+ {
+  "id": "John.2.1-2.11",
+  "lang": "greek",
+  "book": "John",
+  "verses": [
+   [
+    2,
+    1
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    2,
+    4
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    11
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "narrative",
+  "density": 0.7272727272727273,
+  "familiarity": 104.0909090909091,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "greek|narrative|low|low",
+  "split": "calibration",
+  "focus": [
+   [
+    2,
+    9
+   ],
+   [
+    2,
+    10
+   ]
+  ],
+  "window": [
+   [
+    2,
+    7
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    11
+   ]
+  ],
+  "lexemes": [
+   "μεθύω",
+   "γεύομαι",
+   "νυμφίος"
+  ],
+  "pericope_ref": "John 2:1-11",
+  "focus_ref": "John 2:9-10",
+  "window_ref": "John 2:7-11",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Mark.8.14-8.21",
+  "lang": "greek",
+  "book": "Mark",
+  "verses": [
+   [
+    8,
+    14
+   ],
+   [
+    8,
+    15
+   ],
+   [
+    8,
+    16
+   ],
+   [
+    8,
+    17
+   ],
+   [
+    8,
+    18
+   ],
+   [
+    8,
+    19
+   ],
+   [
+    8,
+    20
+   ],
+   [
+    8,
+    21
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 1.0,
+  "familiarity": 319.875,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "greek|narrative|high|high",
+  "split": "calibration",
+  "focus": [
+   [
+    8,
+    16
+   ],
+   [
+    8,
+    17
+   ]
+  ],
+  "window": [
+   [
+    8,
+    14
+   ],
+   [
+    8,
+    15
+   ],
+   [
+    8,
+    16
+   ],
+   [
+    8,
+    17
+   ],
+   [
+    8,
+    18
+   ],
+   [
+    8,
+    19
+   ]
+  ],
+  "lexemes": [
+   "πωρόω",
+   "νοέω",
+   "διαλογίζομαι"
+  ],
+  "pericope_ref": "Mark 8:14-21",
+  "focus_ref": "Mark 8:16-17",
+  "window_ref": "Mark 8:14-19",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Matt.23.1-23.12",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    23,
+    1
+   ],
+   [
+    23,
+    2
+   ],
+   [
+    23,
+    3
+   ],
+   [
+    23,
+    4
+   ],
+   [
+    23,
+    5
+   ],
+   [
+    23,
+    6
+   ],
+   [
+    23,
+    7
+   ],
+   [
+    23,
+    8
+   ],
+   [
+    23,
+    9
+   ],
+   [
+    23,
+    10
+   ],
+   [
+    23,
+    11
+   ],
+   [
+    23,
+    12
+   ]
+  ],
+  "n_verses": 12,
+  "genre": "narrative",
+  "density": 1.1666666666666667,
+  "familiarity": 159.91666666666666,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "calibration",
+  "focus": [
+   [
+    23,
+    3
+   ],
+   [
+    23,
+    4
+   ]
+  ],
+  "window": [
+   [
+    23,
+    1
+   ],
+   [
+    23,
+    2
+   ],
+   [
+    23,
+    3
+   ],
+   [
+    23,
+    4
+   ],
+   [
+    23,
+    5
+   ],
+   [
+    23,
+    6
+   ]
+  ],
+  "lexemes": [
+   "βαρύς",
+   "φορτίον",
+   "δάκτυλος"
+  ],
+  "pericope_ref": "Matthew 23:1-12",
+  "focus_ref": "Matthew 23:3-4",
+  "window_ref": "Matthew 23:1-6",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Rom.11.17-11.24",
+  "lang": "greek",
+  "book": "Rom",
+  "verses": [
+   [
+    11,
+    17
+   ],
+   [
+    11,
+    18
+   ],
+   [
+    11,
+    19
+   ],
+   [
+    11,
+    20
+   ],
+   [
+    11,
+    21
+   ],
+   [
+    11,
+    22
+   ],
+   [
+    11,
+    23
+   ],
+   [
+    11,
+    24
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 1.0,
+  "familiarity": 124.625,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|discourse|high|mid",
+  "split": "calibration",
+  "focus": [
+   [
+    11,
+    22
+   ],
+   [
+    11,
+    23
+   ]
+  ],
+  "window": [
+   [
+    11,
+    20
+   ],
+   [
+    11,
+    21
+   ],
+   [
+    11,
+    22
+   ],
+   [
+    11,
+    23
+   ],
+   [
+    11,
+    24
+   ]
+  ],
+  "lexemes": [
+   "ἐγκεντρίζω",
+   "χρηστότης",
+   "ἐκκόπτω"
+  ],
+  "pericope_ref": "Romans 11:17-24",
+  "focus_ref": "Romans 11:22-23",
+  "window_ref": "Romans 11:20-24",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Cor.10.23-10.30",
+  "lang": "greek",
+  "book": "1Cor",
+  "verses": [
+   [
+    10,
+    23
+   ],
+   [
+    10,
+    24
+   ],
+   [
+    10,
+    25
+   ],
+   [
+    10,
+    26
+   ],
+   [
+    10,
+    27
+   ],
+   [
+    10,
+    28
+   ],
+   [
+    10,
+    29
+   ],
+   [
+    10,
+    30
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.875,
+  "familiarity": 133.0,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|discourse|high|mid",
+  "split": "design",
+  "focus": [
+   [
+    10,
+    27
+   ],
+   [
+    10,
+    28
+   ]
+  ],
+  "window": [
+   [
+    10,
+    25
+   ],
+   [
+    10,
+    26
+   ],
+   [
+    10,
+    27
+   ],
+   [
+    10,
+    28
+   ],
+   [
+    10,
+    29
+   ],
+   [
+    10,
+    30
+   ]
+  ],
+  "lexemes": [
+   "ἀνακρίνω",
+   "παρατίθημι",
+   "ἄπιστος"
+  ],
+  "pericope_ref": "1 Corinthians 10:23-30",
+  "focus_ref": "1 Corinthians 10:27-28",
+  "window_ref": "1 Corinthians 10:25-30",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Cor.6.1-6.8",
+  "lang": "greek",
+  "book": "1Cor",
+  "verses": [
+   [
+    6,
+    1
+   ],
+   [
+    6,
+    2
+   ],
+   [
+    6,
+    3
+   ],
+   [
+    6,
+    4
+   ],
+   [
+    6,
+    5
+   ],
+   [
+    6,
+    6
+   ],
+   [
+    6,
+    7
+   ],
+   [
+    6,
+    8
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.625,
+  "familiarity": 98.625,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "greek|discourse|low|low",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    6,
+    4
+   ],
+   [
+    6,
+    5
+   ]
+  ],
+  "window": [
+   [
+    6,
+    2
+   ],
+   [
+    6,
+    3
+   ],
+   [
+    6,
+    4
+   ],
+   [
+    6,
+    5
+   ],
+   [
+    6,
+    6
+   ],
+   [
+    6,
+    7
+   ]
+  ],
+  "lexemes": [
+   "ἔνι",
+   "ἐξουθενέω",
+   "διακρίνω"
+  ],
+  "pericope_ref": "1 Corinthians 6:1-8",
+  "focus_ref": "1 Corinthians 6:4-5",
+  "window_ref": "1 Corinthians 6:2-7",
+  "fixed": false
+ },
+ {
+  "id": "Acts.2.29-2.36",
+  "lang": "greek",
+  "book": "Acts",
+  "verses": [
+   [
+    2,
+    29
+   ],
+   [
+    2,
+    30
+   ],
+   [
+    2,
+    31
+   ],
+   [
+    2,
+    32
+   ],
+   [
+    2,
+    33
+   ],
+   [
+    2,
+    34
+   ],
+   [
+    2,
+    35
+   ],
+   [
+    2,
+    36
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 1.375,
+  "familiarity": 230.625,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "design",
+  "focus": [
+   [
+    2,
+    30
+   ],
+   [
+    2,
+    31
+   ]
+  ],
+  "window": [
+   [
+    2,
+    29
+   ],
+   [
+    2,
+    30
+   ],
+   [
+    2,
+    31
+   ],
+   [
+    2,
+    32
+   ],
+   [
+    2,
+    33
+   ]
+  ],
+  "lexemes": [
+   "διαφθορά",
+   "ὀσφύς",
+   "ἐγκαταλείπω"
+  ],
+  "pericope_ref": "Acts 2:29-36",
+  "focus_ref": "Acts 2:30-31",
+  "window_ref": "Acts 2:29-33",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "John.8.39-8.47",
+  "lang": "greek",
+  "book": "John",
+  "verses": [
+   [
+    8,
+    39
+   ],
+   [
+    8,
+    40
+   ],
+   [
+    8,
+    41
+   ],
+   [
+    8,
+    42
+   ],
+   [
+    8,
+    43
+   ],
+   [
+    8,
+    44
+   ],
+   [
+    8,
+    45
+   ],
+   [
+    8,
+    46
+   ],
+   [
+    8,
+    47
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 0.7777777777777778,
+  "familiarity": 327.44444444444446,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "greek|narrative|high|high",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    8,
+    41
+   ],
+   [
+    8,
+    42
+   ]
+  ],
+  "window": [
+   [
+    8,
+    39
+   ],
+   [
+    8,
+    40
+   ],
+   [
+    8,
+    41
+   ],
+   [
+    8,
+    42
+   ],
+   [
+    8,
+    43
+   ],
+   [
+    8,
+    44
+   ]
+  ],
+  "lexemes": [
+   "πορνεία",
+   "ἥκω",
+   "γεννάω"
+  ],
+  "pericope_ref": "John 8:39-47",
+  "focus_ref": "John 8:41-42",
+  "window_ref": "John 8:39-44",
+  "fixed": false
+ },
+ {
+  "id": "John.9.24-9.34",
+  "lang": "greek",
+  "book": "John",
+  "verses": [
+   [
+    9,
+    24
+   ],
+   [
+    9,
+    25
+   ],
+   [
+    9,
+    26
+   ],
+   [
+    9,
+    27
+   ],
+   [
+    9,
+    28
+   ],
+   [
+    9,
+    29
+   ],
+   [
+    9,
+    30
+   ],
+   [
+    9,
+    31
+   ],
+   [
+    9,
+    32
+   ],
+   [
+    9,
+    33
+   ],
+   [
+    9,
+    34
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "narrative",
+  "density": 0.8181818181818182,
+  "familiarity": 124.54545454545455,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "design",
+  "focus": [
+   [
+    9,
+    30
+   ],
+   [
+    9,
+    31
+   ]
+  ],
+  "window": [
+   [
+    9,
+    28
+   ],
+   [
+    9,
+    29
+   ],
+   [
+    9,
+    30
+   ],
+   [
+    9,
+    31
+   ],
+   [
+    9,
+    32
+   ],
+   [
+    9,
+    33
+   ]
+  ],
+  "lexemes": [
+   "θαυμαστός",
+   "ἁμαρτωλός",
+   "θέλημα"
+  ],
+  "pericope_ref": "John 9:24-34",
+  "focus_ref": "John 9:30-31",
+  "window_ref": "John 9:28-33",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Mark.9.14-9.29",
+  "lang": "greek",
+  "book": "Mark",
+  "verses": [
+   [
+    9,
+    14
+   ],
+   [
+    9,
+    15
+   ],
+   [
+    9,
+    16
+   ],
+   [
+    9,
+    17
+   ],
+   [
+    9,
+    18
+   ],
+   [
+    9,
+    19
+   ],
+   [
+    9,
+    20
+   ],
+   [
+    9,
+    21
+   ],
+   [
+    9,
+    22
+   ],
+   [
+    9,
+    23
+   ],
+   [
+    9,
+    24
+   ],
+   [
+    9,
+    25
+   ],
+   [
+    9,
+    26
+   ],
+   [
+    9,
+    27
+   ],
+   [
+    9,
+    28
+   ],
+   [
+    9,
+    29
+   ]
+  ],
+  "n_verses": 16,
+  "genre": "narrative",
+  "density": 1.6875,
+  "familiarity": 100.125,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "greek|narrative|high|low",
+  "fixed": true,
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    9,
+    23
+   ],
+   [
+    9,
+    24
+   ]
+  ],
+  "window": [
+   [
+    9,
+    21
+   ],
+   [
+    9,
+    22
+   ],
+   [
+    9,
+    23
+   ],
+   [
+    9,
+    24
+   ],
+   [
+    9,
+    25
+   ],
+   [
+    9,
+    26
+   ]
+  ],
+  "lexemes": [
+   "πιστεύω",
+   "δύναμαι",
+   "βοηθέω"
+  ],
+  "pericope_ref": "Mark 9:14-29",
+  "focus_ref": "Mark 9:23-24",
+  "window_ref": "Mark 9:21-26"
+ },
+ {
+  "id": "Matt.26.47-26.56",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    26,
+    47
+   ],
+   [
+    26,
+    48
+   ],
+   [
+    26,
+    49
+   ],
+   [
+    26,
+    50
+   ],
+   [
+    26,
+    51
+   ],
+   [
+    26,
+    52
+   ],
+   [
+    26,
+    53
+   ],
+   [
+    26,
+    54
+   ],
+   [
+    26,
+    55
+   ],
+   [
+    26,
+    56
+   ]
+  ],
+  "n_verses": 10,
+  "genre": "narrative",
+  "density": 0.7,
+  "familiarity": 101.3,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "greek|narrative|low|low",
+  "split": "design",
+  "focus": [
+   [
+    26,
+    52
+   ],
+   [
+    26,
+    53
+   ]
+  ],
+  "window": [
+   [
+    26,
+    50
+   ],
+   [
+    26,
+    51
+   ],
+   [
+    26,
+    52
+   ],
+   [
+    26,
+    53
+   ],
+   [
+    26,
+    54
+   ],
+   [
+    26,
+    55
+   ]
+  ],
+  "lexemes": [
+   "ἀποστρέφω",
+   "μάχαιρα",
+   "παρίστημι"
+  ],
+  "pericope_ref": "Matthew 26:47-56",
+  "focus_ref": "Matthew 26:52-53",
+  "window_ref": "Matthew 26:50-55",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Rev.3.15-3.22",
+  "lang": "greek",
+  "book": "Rev",
+  "verses": [
+   [
+    3,
+    15
+   ],
+   [
+    3,
+    16
+   ],
+   [
+    3,
+    17
+   ],
+   [
+    3,
+    18
+   ],
+   [
+    3,
+    19
+   ],
+   [
+    3,
+    20
+   ],
+   [
+    3,
+    21
+   ],
+   [
+    3,
+    22
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 1.0,
+  "familiarity": 518.0,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "greek|poetry|high|high",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    3,
+    17
+   ],
+   [
+    3,
+    18
+   ]
+  ],
+  "window": [
+   [
+    3,
+    15
+   ],
+   [
+    3,
+    16
+   ],
+   [
+    3,
+    17
+   ],
+   [
+    3,
+    18
+   ],
+   [
+    3,
+    19
+   ],
+   [
+    3,
+    20
+   ]
+  ],
+  "lexemes": [
+   "αἰσχύνη",
+   "πυρόομαι",
+   "πλουτέω"
+  ],
+  "pericope_ref": "Revelation 3:15-22",
+  "focus_ref": "Revelation 3:17-18",
+  "window_ref": "Revelation 3:15-20",
+  "fixed": false
+ },
+ {
+  "id": "1Cor.10.6-10.13",
+  "lang": "greek",
+  "book": "1Cor",
+  "verses": [
+   [
+    10,
+    6
+   ],
+   [
+    10,
+    7
+   ],
+   [
+    10,
+    8
+   ],
+   [
+    10,
+    9
+   ],
+   [
+    10,
+    10
+   ],
+   [
+    10,
+    11
+   ],
+   [
+    10,
+    12
+   ],
+   [
+    10,
+    13
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 1.0,
+  "familiarity": 531.375,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "greek|discourse|high|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    10,
+    10
+   ],
+   [
+    10,
+    11
+   ]
+  ],
+  "window": [
+   [
+    10,
+    8
+   ],
+   [
+    10,
+    9
+   ],
+   [
+    10,
+    10
+   ],
+   [
+    10,
+    11
+   ],
+   [
+    10,
+    12
+   ],
+   [
+    10,
+    13
+   ]
+  ],
+  "lexemes": [
+   "γογγύζω",
+   "συμβαίνω",
+   "καταντάω"
+  ],
+  "pericope_ref": "1 Corinthians 10:6-13",
+  "focus_ref": "1 Corinthians 10:10-11",
+  "window_ref": "1 Corinthians 10:8-13",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Tim.5.9-5.16",
+  "lang": "greek",
+  "book": "1Tim",
+  "verses": [
+   [
+    5,
+    9
+   ],
+   [
+    5,
+    10
+   ],
+   [
+    5,
+    11
+   ],
+   [
+    5,
+    12
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    5,
+    14
+   ],
+   [
+    5,
+    15
+   ],
+   [
+    5,
+    16
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.25,
+  "familiarity": 110.625,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "greek|discourse|low|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    5,
+    10
+   ],
+   [
+    5,
+    11
+   ]
+  ],
+  "window": [
+   [
+    5,
+    9
+   ],
+   [
+    5,
+    10
+   ],
+   [
+    5,
+    11
+   ],
+   [
+    5,
+    12
+   ],
+   [
+    5,
+    13
+   ]
+  ],
+  "lexemes": [
+   "θλίβω",
+   "παραιτέομαι",
+   "νίπτω"
+  ],
+  "pericope_ref": "1 Timothy 5:9-16",
+  "focus_ref": "1 Timothy 5:10-11",
+  "window_ref": "1 Timothy 5:9-13",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Acts.4.23-4.31",
+  "lang": "greek",
+  "book": "Acts",
+  "verses": [
+   [
+    4,
+    23
+   ],
+   [
+    4,
+    24
+   ],
+   [
+    4,
+    25
+   ],
+   [
+    4,
+    26
+   ],
+   [
+    4,
+    27
+   ],
+   [
+    4,
+    28
+   ],
+   [
+    4,
+    29
+   ],
+   [
+    4,
+    30
+   ],
+   [
+    4,
+    31
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 0.7777777777777778,
+  "familiarity": 236.11111111111111,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    4,
+    24
+   ],
+   [
+    4,
+    25
+   ]
+  ],
+  "window": [
+   [
+    4,
+    23
+   ],
+   [
+    4,
+    24
+   ],
+   [
+    4,
+    25
+   ],
+   [
+    4,
+    26
+   ],
+   [
+    4,
+    27
+   ]
+  ],
+  "lexemes": [
+   "δεσπότης",
+   "κενός",
+   "παῖς"
+  ],
+  "pericope_ref": "Acts 4:23-31",
+  "focus_ref": "Acts 4:24-25",
+  "window_ref": "Acts 4:23-27",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Gal.4.12-4.20",
+  "lang": "greek",
+  "book": "Gal",
+  "verses": [
+   [
+    4,
+    12
+   ],
+   [
+    4,
+    13
+   ],
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "discourse",
+  "density": 0.7777777777777778,
+  "familiarity": 111.66666666666667,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "greek|discourse|high|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ]
+  ],
+  "window": [
+   [
+    4,
+    12
+   ],
+   [
+    4,
+    13
+   ],
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ]
+  ],
+  "lexemes": [
+   "ἐξουθενέω",
+   "πειρασμός",
+   "δυνατός"
+  ],
+  "pericope_ref": "Galatians 4:12-20",
+  "focus_ref": "Galatians 4:14-15",
+  "window_ref": "Galatians 4:12-17",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Heb.10.32-10.39",
+  "lang": "greek",
+  "book": "Heb",
+  "verses": [
+   [
+    10,
+    32
+   ],
+   [
+    10,
+    33
+   ],
+   [
+    10,
+    34
+   ],
+   [
+    10,
+    35
+   ],
+   [
+    10,
+    36
+   ],
+   [
+    10,
+    37
+   ],
+   [
+    10,
+    38
+   ],
+   [
+    10,
+    39
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.625,
+  "familiarity": 508.5,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "greek|discourse|low|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    10,
+    34
+   ],
+   [
+    10,
+    35
+   ]
+  ],
+  "window": [
+   [
+    10,
+    32
+   ],
+   [
+    10,
+    33
+   ],
+   [
+    10,
+    34
+   ],
+   [
+    10,
+    35
+   ],
+   [
+    10,
+    36
+   ],
+   [
+    10,
+    37
+   ]
+  ],
+  "lexemes": [
+   "προσδέχομαι",
+   "δέσμιος",
+   "κρείττων"
+  ],
+  "pericope_ref": "Hebrews 10:32-39",
+  "focus_ref": "Hebrews 10:34-35",
+  "window_ref": "Hebrews 10:32-37",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Luke.14.7-14.14",
+  "lang": "greek",
+  "book": "Luke",
+  "verses": [
+   [
+    14,
+    7
+   ],
+   [
+    14,
+    8
+   ],
+   [
+    14,
+    9
+   ],
+   [
+    14,
+    10
+   ],
+   [
+    14,
+    11
+   ],
+   [
+    14,
+    12
+   ],
+   [
+    14,
+    13
+   ],
+   [
+    14,
+    14
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 0.625,
+  "familiarity": 189.625,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|low|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    14,
+    9
+   ],
+   [
+    14,
+    10
+   ]
+  ],
+  "window": [
+   [
+    14,
+    7
+   ],
+   [
+    14,
+    8
+   ],
+   [
+    14,
+    9
+   ],
+   [
+    14,
+    10
+   ],
+   [
+    14,
+    11
+   ],
+   [
+    14,
+    12
+   ]
+  ],
+  "lexemes": [
+   "αἰσχύνη",
+   "συνανάκειμαι",
+   "ἀναπίπτω"
+  ],
+  "pericope_ref": "Luke 14:7-14",
+  "focus_ref": "Luke 14:9-10",
+  "window_ref": "Luke 14:7-12",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Matt.15.1-15.9",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    15,
+    1
+   ],
+   [
+    15,
+    2
+   ],
+   [
+    15,
+    3
+   ],
+   [
+    15,
+    4
+   ],
+   [
+    15,
+    5
+   ],
+   [
+    15,
+    6
+   ],
+   [
+    15,
+    7
+   ],
+   [
+    15,
+    8
+   ],
+   [
+    15,
+    9
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 1.2222222222222223,
+  "familiarity": 168.44444444444446,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    15,
+    5
+   ],
+   [
+    15,
+    6
+   ]
+  ],
+  "window": [
+   [
+    15,
+    3
+   ],
+   [
+    15,
+    4
+   ],
+   [
+    15,
+    5
+   ],
+   [
+    15,
+    6
+   ],
+   [
+    15,
+    7
+   ],
+   [
+    15,
+    8
+   ]
+  ],
+  "lexemes": [
+   "παράδοσις",
+   "ὠφελέω",
+   "δῶρον"
+  ],
+  "pericope_ref": "Matthew 15:1-9",
+  "focus_ref": "Matthew 15:5-6",
+  "window_ref": "Matthew 15:3-8",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Matt.15.10-15.20",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    15,
+    10
+   ],
+   [
+    15,
+    11
+   ],
+   [
+    15,
+    12
+   ],
+   [
+    15,
+    13
+   ],
+   [
+    15,
+    14
+   ],
+   [
+    15,
+    15
+   ],
+   [
+    15,
+    16
+   ],
+   [
+    15,
+    17
+   ],
+   [
+    15,
+    18
+   ],
+   [
+    15,
+    19
+   ],
+   [
+    15,
+    20
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "narrative",
+  "density": 1.3636363636363635,
+  "familiarity": 222.72727272727272,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    15,
+    11
+   ],
+   [
+    15,
+    12
+   ]
+  ],
+  "window": [
+   [
+    15,
+    10
+   ],
+   [
+    15,
+    11
+   ],
+   [
+    15,
+    12
+   ],
+   [
+    15,
+    13
+   ],
+   [
+    15,
+    14
+   ]
+  ],
+  "lexemes": [
+   "κοινόω",
+   "σκανδαλίζω",
+   "ἐκπορεύομαι"
+  ],
+  "pericope_ref": "Matthew 15:10-20",
+  "focus_ref": "Matthew 15:11-12",
+  "window_ref": "Matthew 15:10-14",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Matt.25.14-25.30",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    25,
+    14
+   ],
+   [
+    25,
+    15
+   ],
+   [
+    25,
+    16
+   ],
+   [
+    25,
+    17
+   ],
+   [
+    25,
+    18
+   ],
+   [
+    25,
+    19
+   ],
+   [
+    25,
+    20
+   ],
+   [
+    25,
+    21
+   ],
+   [
+    25,
+    22
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    25,
+    24
+   ],
+   [
+    25,
+    25
+   ],
+   [
+    25,
+    26
+   ],
+   [
+    25,
+    27
+   ],
+   [
+    25,
+    28
+   ],
+   [
+    25,
+    29
+   ],
+   [
+    25,
+    30
+   ]
+  ],
+  "n_verses": 17,
+  "genre": "narrative",
+  "density": 1.0,
+  "familiarity": 122.70588235294117,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    25,
+    21
+   ],
+   [
+    25,
+    22
+   ]
+  ],
+  "window": [
+   [
+    25,
+    19
+   ],
+   [
+    25,
+    20
+   ],
+   [
+    25,
+    21
+   ],
+   [
+    25,
+    22
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    25,
+    24
+   ]
+  ],
+  "lexemes": [
+   "τάλαντον",
+   "κερδαίνω",
+   "καθίστημι"
+  ],
+  "pericope_ref": "Matthew 25:14-30",
+  "focus_ref": "Matthew 25:21-22",
+  "window_ref": "Matthew 25:19-24",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Matt.6.25-6.34",
+  "lang": "greek",
+  "book": "Matt",
+  "verses": [
+   [
+    6,
+    25
+   ],
+   [
+    6,
+    26
+   ],
+   [
+    6,
+    27
+   ],
+   [
+    6,
+    28
+   ],
+   [
+    6,
+    29
+   ],
+   [
+    6,
+    30
+   ],
+   [
+    6,
+    31
+   ],
+   [
+    6,
+    32
+   ],
+   [
+    6,
+    33
+   ],
+   [
+    6,
+    34
+   ]
+  ],
+  "n_verses": 10,
+  "genre": "narrative",
+  "density": 0.5,
+  "familiarity": 1162.7,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "greek|narrative|low|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    6,
+    27
+   ],
+   [
+    6,
+    28
+   ]
+  ],
+  "window": [
+   [
+    6,
+    25
+   ],
+   [
+    6,
+    26
+   ],
+   [
+    6,
+    27
+   ],
+   [
+    6,
+    28
+   ],
+   [
+    6,
+    29
+   ],
+   [
+    6,
+    30
+   ]
+  ],
+  "lexemes": [
+   "ἔνδυμα",
+   "ἡλικία",
+   "προστίθημι"
+  ],
+  "pericope_ref": "Matthew 6:25-34",
+  "focus_ref": "Matthew 6:27-28",
+  "window_ref": "Matthew 6:25-30",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Rev.13.11-13.18",
+  "lang": "greek",
+  "book": "Rev",
+  "verses": [
+   [
+    13,
+    11
+   ],
+   [
+    13,
+    12
+   ],
+   [
+    13,
+    13
+   ],
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ],
+   [
+    13,
+    16
+   ],
+   [
+    13,
+    17
+   ],
+   [
+    13,
+    18
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 1.875,
+  "familiarity": 126.0,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|poetry|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ]
+  ],
+  "window": [
+   [
+    13,
+    12
+   ],
+   [
+    13,
+    13
+   ],
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ],
+   [
+    13,
+    16
+   ],
+   [
+    13,
+    17
+   ]
+  ],
+  "lexemes": [
+   "πληγή",
+   "εἰκών",
+   "μάχαιρα"
+  ],
+  "pericope_ref": "Revelation 13:11-18",
+  "focus_ref": "Revelation 13:14-15",
+  "window_ref": "Revelation 13:12-17",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Rom.4.1-4.8",
+  "lang": "greek",
+  "book": "Rom",
+  "verses": [
+   [
+    4,
+    1
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    4,
+    3
+   ],
+   [
+    4,
+    4
+   ],
+   [
+    4,
+    5
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    4,
+    7
+   ],
+   [
+    4,
+    8
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.625,
+  "familiarity": 187.0,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "greek|discourse|low|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    4,
+    2
+   ],
+   [
+    4,
+    3
+   ]
+  ],
+  "window": [
+   [
+    4,
+    1
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    4,
+    3
+   ],
+   [
+    4,
+    4
+   ],
+   [
+    4,
+    5
+   ]
+  ],
+  "lexemes": [
+   "καύχημα",
+   "δικαιόω",
+   "λογίζομαι"
+  ],
+  "pericope_ref": "Romans 4:1-8",
+  "focus_ref": "Romans 4:2-3",
+  "window_ref": "Romans 4:1-5",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Cor.4.14-4.21",
+  "lang": "greek",
+  "book": "1Cor",
+  "verses": [
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ],
+   [
+    4,
+    21
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.375,
+  "familiarity": 148.0,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "greek|discourse|low|mid",
+  "split": "probe",
+  "focus": [
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ]
+  ],
+  "window": [
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ]
+  ],
+  "lexemes": [
+   "ἀναμιμνῄσκω",
+   "φυσιόω",
+   "ἀγαπητός"
+  ],
+  "pericope_ref": "1 Corinthians 4:14-21",
+  "focus_ref": "1 Corinthians 4:17-18",
+  "window_ref": "1 Corinthians 4:15-20",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Acts.13.13-13.25",
+  "lang": "greek",
+  "book": "Acts",
+  "verses": [
+   [
+    13,
+    13
+   ],
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ],
+   [
+    13,
+    16
+   ],
+   [
+    13,
+    17
+   ],
+   [
+    13,
+    18
+   ],
+   [
+    13,
+    19
+   ],
+   [
+    13,
+    20
+   ],
+   [
+    13,
+    21
+   ],
+   [
+    13,
+    22
+   ],
+   [
+    13,
+    23
+   ],
+   [
+    13,
+    24
+   ],
+   [
+    13,
+    25
+   ]
+  ],
+  "n_verses": 13,
+  "genre": "narrative",
+  "density": 1.2307692307692308,
+  "familiarity": 117.53846153846153,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "probe",
+  "focus": [
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ]
+  ],
+  "window": [
+   [
+    13,
+    13
+   ],
+   [
+    13,
+    14
+   ],
+   [
+    13,
+    15
+   ],
+   [
+    13,
+    16
+   ],
+   [
+    13,
+    17
+   ]
+  ],
+  "lexemes": [
+   "ἀρχισυνάγωγος",
+   "παράκλησις",
+   "παραγίνομαι"
+  ],
+  "pericope_ref": "Acts 13:13-25",
+  "focus_ref": "Acts 13:14-15",
+  "window_ref": "Acts 13:13-17",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Acts.2.14-2.21",
+  "lang": "greek",
+  "book": "Acts",
+  "verses": [
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ],
+   [
+    2,
+    20
+   ],
+   [
+    2,
+    21
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 0.75,
+  "familiarity": 328.375,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "greek|narrative|low|high",
+  "split": "probe",
+  "focus": [
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ]
+  ],
+  "window": [
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ]
+  ],
+  "lexemes": [
+   "νεανίσκος",
+   "ἐκχέω",
+   "θυγάτηρ"
+  ],
+  "pericope_ref": "Acts 2:14-21",
+  "focus_ref": "Acts 2:16-17",
+  "window_ref": "Acts 2:14-19",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Acts.8.26-8.40",
+  "lang": "greek",
+  "book": "Acts",
+  "verses": [
+   [
+    8,
+    26
+   ],
+   [
+    8,
+    27
+   ],
+   [
+    8,
+    28
+   ],
+   [
+    8,
+    29
+   ],
+   [
+    8,
+    30
+   ],
+   [
+    8,
+    31
+   ],
+   [
+    8,
+    32
+   ],
+   [
+    8,
+    33
+   ],
+   [
+    8,
+    34
+   ],
+   [
+    8,
+    35
+   ],
+   [
+    8,
+    36
+   ],
+   [
+    8,
+    38
+   ],
+   [
+    8,
+    39
+   ],
+   [
+    8,
+    40
+   ]
+  ],
+  "n_verses": 14,
+  "genre": "narrative",
+  "density": 0.6428571428571429,
+  "familiarity": 114.78571428571429,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|low|mid",
+  "split": "probe",
+  "focus": [
+   [
+    8,
+    30
+   ],
+   [
+    8,
+    31
+   ]
+  ],
+  "window": [
+   [
+    8,
+    28
+   ],
+   [
+    8,
+    29
+   ],
+   [
+    8,
+    30
+   ],
+   [
+    8,
+    31
+   ],
+   [
+    8,
+    32
+   ],
+   [
+    8,
+    33
+   ]
+  ],
+  "lexemes": [
+   "ὁδηγέω",
+   "ἀναγινώσκω",
+   "καθίζω"
+  ],
+  "pericope_ref": "Acts 8:26-40",
+  "focus_ref": "Acts 8:30-31",
+  "window_ref": "Acts 8:28-33",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Eph.3.1-3.13",
+  "lang": "greek",
+  "book": "Eph",
+  "verses": [
+   [
+    3,
+    1
+   ],
+   [
+    3,
+    2
+   ],
+   [
+    3,
+    3
+   ],
+   [
+    3,
+    4
+   ],
+   [
+    3,
+    5
+   ],
+   [
+    3,
+    6
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    3,
+    8
+   ],
+   [
+    3,
+    9
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    3,
+    11
+   ],
+   [
+    3,
+    12
+   ],
+   [
+    3,
+    13
+   ]
+  ],
+  "n_verses": 13,
+  "genre": "discourse",
+  "density": 0.9230769230769231,
+  "familiarity": 312.53846153846155,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "greek|discourse|high|high",
+  "split": "probe",
+  "focus": [
+   [
+    3,
+    8
+   ],
+   [
+    3,
+    9
+   ]
+  ],
+  "window": [
+   [
+    3,
+    6
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    3,
+    8
+   ],
+   [
+    3,
+    9
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    3,
+    11
+   ]
+  ],
+  "lexemes": [
+   "οἰκονομία",
+   "φωτίζω",
+   "ἐλάχιστος"
+  ],
+  "pericope_ref": "Ephesians 3:1-13",
+  "focus_ref": "Ephesians 3:8-9",
+  "window_ref": "Ephesians 3:6-11",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Heb.10.11-10.18",
+  "lang": "greek",
+  "book": "Heb",
+  "verses": [
+   [
+    10,
+    11
+   ],
+   [
+    10,
+    12
+   ],
+   [
+    10,
+    13
+   ],
+   [
+    10,
+    14
+   ],
+   [
+    10,
+    15
+   ],
+   [
+    10,
+    16
+   ],
+   [
+    10,
+    17
+   ],
+   [
+    10,
+    18
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.625,
+  "familiarity": 288.0,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "greek|discourse|low|high",
+  "split": "probe",
+  "focus": [
+   [
+    10,
+    16
+   ],
+   [
+    10,
+    17
+   ]
+  ],
+  "window": [
+   [
+    10,
+    14
+   ],
+   [
+    10,
+    15
+   ],
+   [
+    10,
+    16
+   ],
+   [
+    10,
+    17
+   ],
+   [
+    10,
+    18
+   ]
+  ],
+  "lexemes": [
+   "ἐπιγράφω",
+   "διατίθεμαι",
+   "διάνοια"
+  ],
+  "pericope_ref": "Hebrews 10:11-18",
+  "focus_ref": "Hebrews 10:16-17",
+  "window_ref": "Hebrews 10:14-18",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Luke.2.41-2.51",
+  "lang": "greek",
+  "book": "Luke",
+  "verses": [
+   [
+    2,
+    41
+   ],
+   [
+    2,
+    42
+   ],
+   [
+    2,
+    43
+   ],
+   [
+    2,
+    44
+   ],
+   [
+    2,
+    45
+   ],
+   [
+    2,
+    46
+   ],
+   [
+    2,
+    47
+   ],
+   [
+    2,
+    48
+   ],
+   [
+    2,
+    49
+   ],
+   [
+    2,
+    50
+   ],
+   [
+    2,
+    51
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "narrative",
+  "density": 0.9090909090909091,
+  "familiarity": 59.09090909090909,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "greek|narrative|high|low",
+  "split": "probe",
+  "focus": [
+   [
+    2,
+    48
+   ],
+   [
+    2,
+    49
+   ]
+  ],
+  "window": [
+   [
+    2,
+    46
+   ],
+   [
+    2,
+    47
+   ],
+   [
+    2,
+    48
+   ],
+   [
+    2,
+    49
+   ],
+   [
+    2,
+    50
+   ],
+   [
+    2,
+    51
+   ]
+  ],
+  "lexemes": [
+   "ἐκπλήσσομαι",
+   "μήτηρ",
+   "τέκνον"
+  ],
+  "pericope_ref": "Luke 2:41-51",
+  "focus_ref": "Luke 2:48-49",
+  "window_ref": "Luke 2:46-51",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Mark.4.13-4.20",
+  "lang": "greek",
+  "book": "Mark",
+  "verses": [
+   [
+    4,
+    13
+   ],
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 1.375,
+  "familiarity": 120.375,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "greek|narrative|high|mid",
+  "split": "probe",
+  "focus": [
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ]
+  ],
+  "window": [
+   [
+    4,
+    13
+   ],
+   [
+    4,
+    14
+   ],
+   [
+    4,
+    15
+   ],
+   [
+    4,
+    16
+   ],
+   [
+    4,
+    17
+   ],
+   [
+    4,
+    18
+   ]
+  ],
+  "lexemes": [
+   "σπείρω",
+   "εὐθύς",
+   "χαρά"
+  ],
+  "pericope_ref": "Mark 4:13-20",
+  "focus_ref": "Mark 4:15-16",
+  "window_ref": "Mark 4:13-18",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "2Chr.31.11-31.21",
+  "lang": "hebrew",
+  "book": "2Chr",
+  "verses": [
+   [
+    31,
+    11
+   ],
+   [
+    31,
+    12
+   ],
+   [
+    31,
+    13
+   ],
+   [
+    31,
+    14
+   ],
+   [
+    31,
+    15
+   ],
+   [
+    31,
+    16
+   ],
+   [
+    31,
+    17
+   ],
+   [
+    31,
+    18
+   ],
+   [
+    31,
+    19
+   ],
+   [
+    31,
+    20
+   ],
+   [
+    31,
+    21
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "narrative",
+  "density": 0.36363636363636365,
+  "familiarity": 85.0,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "hebrew|narrative|high|high",
+  "split": "calibration",
+  "focus": [
+   [
+    31,
+    12
+   ],
+   [
+    31,
+    13
+   ]
+  ],
+  "window": [
+   [
+    31,
+    11
+   ],
+   [
+    31,
+    12
+   ],
+   [
+    31,
+    13
+   ],
+   [
+    31,
+    14
+   ],
+   [
+    31,
+    15
+   ]
+  ],
+  "lexemes": [
+   "פָּקִיד",
+   "מַעֲשֵׂר",
+   "מִשְׁנֶה"
+  ],
+  "pericope_ref": "2 Chronicles 31:11-21",
+  "focus_ref": "2 Chronicles 31:12-13",
+  "window_ref": "2 Chronicles 31:11-15",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Deut.21.1-21.9",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    21,
+    1
+   ],
+   [
+    21,
+    2
+   ],
+   [
+    21,
+    3
+   ],
+   [
+    21,
+    4
+   ],
+   [
+    21,
+    5
+   ],
+   [
+    21,
+    6
+   ],
+   [
+    21,
+    7
+   ],
+   [
+    21,
+    8
+   ],
+   [
+    21,
+    9
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "discourse",
+  "density": 0.2222222222222222,
+  "familiarity": 28.77777777777778,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|discourse|high|low",
+  "split": "calibration",
+  "focus": [
+   [
+    21,
+    7
+   ],
+   [
+    21,
+    8
+   ]
+  ],
+  "window": [
+   [
+    21,
+    5
+   ],
+   [
+    21,
+    6
+   ],
+   [
+    21,
+    7
+   ],
+   [
+    21,
+    8
+   ],
+   [
+    21,
+    9
+   ]
+  ],
+  "lexemes": [
+   "נָקִי",
+   "פָּדָה",
+   "כָּפַר"
+  ],
+  "pericope_ref": "Deuteronomy 21:1-9",
+  "focus_ref": "Deuteronomy 21:7-8",
+  "window_ref": "Deuteronomy 21:5-9",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Exod.4.18-4.26",
+  "lang": "hebrew",
+  "book": "Exod",
+  "verses": [
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ],
+   [
+    4,
+    21
+   ],
+   [
+    4,
+    22
+   ],
+   [
+    4,
+    23
+   ],
+   [
+    4,
+    24
+   ],
+   [
+    4,
+    25
+   ],
+   [
+    4,
+    26
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 72.11111111111111,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|narrative|low|mid",
+  "split": "calibration",
+  "focus": [
+   [
+    4,
+    20
+   ],
+   [
+    4,
+    21
+   ]
+  ],
+  "window": [
+   [
+    4,
+    18
+   ],
+   [
+    4,
+    19
+   ],
+   [
+    4,
+    20
+   ],
+   [
+    4,
+    21
+   ],
+   [
+    4,
+    22
+   ],
+   [
+    4,
+    23
+   ]
+  ],
+  "lexemes": [
+   "מוֹפֵת",
+   "רָכַב",
+   "חֲמוֹר"
+  ],
+  "pericope_ref": "Exodus 4:18-26",
+  "focus_ref": "Exodus 4:20-21",
+  "window_ref": "Exodus 4:18-23",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Isa.48.3-48.11",
+  "lang": "hebrew",
+  "book": "Isa",
+  "verses": [
+   [
+    48,
+    3
+   ],
+   [
+    48,
+    4
+   ],
+   [
+    48,
+    5
+   ],
+   [
+    48,
+    6
+   ],
+   [
+    48,
+    7
+   ],
+   [
+    48,
+    8
+   ],
+   [
+    48,
+    9
+   ],
+   [
+    48,
+    10
+   ],
+   [
+    48,
+    11
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "poetry",
+  "density": 0.0,
+  "familiarity": 214.44444444444446,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "hebrew|poetry|low|high",
+  "split": "calibration",
+  "focus": [
+   [
+    48,
+    7
+   ],
+   [
+    48,
+    8
+   ]
+  ],
+  "window": [
+   [
+    48,
+    5
+   ],
+   [
+    48,
+    6
+   ],
+   [
+    48,
+    7
+   ],
+   [
+    48,
+    8
+   ],
+   [
+    48,
+    9
+   ],
+   [
+    48,
+    10
+   ]
+  ],
+  "lexemes": [
+   "פָּשַׁע",
+   "בָּגַד",
+   "בָּרָא"
+  ],
+  "pericope_ref": "Isaiah 48:3-11",
+  "focus_ref": "Isaiah 48:7-8",
+  "window_ref": "Isaiah 48:5-10",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Kgs.2.11-2.22",
+  "lang": "hebrew",
+  "book": "1Kgs",
+  "verses": [
+   [
+    2,
+    11
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    13
+   ],
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ],
+   [
+    2,
+    20
+   ],
+   [
+    2,
+    21
+   ],
+   [
+    2,
+    22
+   ]
+  ],
+  "n_verses": 12,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 25.333333333333332,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "hebrew|narrative|low|low",
+  "split": "design",
+  "focus": [
+   [
+    2,
+    19
+   ],
+   [
+    2,
+    20
+   ]
+  ],
+  "window": [
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ],
+   [
+    2,
+    20
+   ],
+   [
+    2,
+    21
+   ],
+   [
+    2,
+    22
+   ]
+  ],
+  "lexemes": [
+   "שְׁאֵלָה",
+   "קִרְאָה",
+   "קָטָן"
+  ],
+  "pericope_ref": "1 Kings 2:11-22",
+  "focus_ref": "1 Kings 2:19-20",
+  "window_ref": "1 Kings 2:17-22",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Sam.3.11-3.18",
+  "lang": "hebrew",
+  "book": "1Sam",
+  "verses": [
+   [
+    3,
+    11
+   ],
+   [
+    3,
+    12
+   ],
+   [
+    3,
+    13
+   ],
+   [
+    3,
+    14
+   ],
+   [
+    3,
+    15
+   ],
+   [
+    3,
+    16
+   ],
+   [
+    3,
+    17
+   ],
+   [
+    3,
+    18
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 62.125,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|narrative|low|mid",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    3,
+    16
+   ],
+   [
+    3,
+    17
+   ]
+  ],
+  "window": [
+   [
+    3,
+    14
+   ],
+   [
+    3,
+    15
+   ],
+   [
+    3,
+    16
+   ],
+   [
+    3,
+    17
+   ],
+   [
+    3,
+    18
+   ]
+  ],
+  "lexemes": [
+   "כָּחַד",
+   "יָסַף",
+   "קָרָא"
+  ],
+  "pericope_ref": "1 Samuel 3:11-18",
+  "focus_ref": "1 Samuel 3:16-17",
+  "window_ref": "1 Samuel 3:14-18",
+  "fixed": false
+ },
+ {
+  "id": "2Kgs.17.24-17.41",
+  "lang": "hebrew",
+  "book": "2Kgs",
+  "verses": [
+   [
+    17,
+    24
+   ],
+   [
+    17,
+    25
+   ],
+   [
+    17,
+    26
+   ],
+   [
+    17,
+    27
+   ],
+   [
+    17,
+    28
+   ],
+   [
+    17,
+    29
+   ],
+   [
+    17,
+    30
+   ],
+   [
+    17,
+    31
+   ],
+   [
+    17,
+    32
+   ],
+   [
+    17,
+    33
+   ],
+   [
+    17,
+    34
+   ],
+   [
+    17,
+    35
+   ],
+   [
+    17,
+    36
+   ],
+   [
+    17,
+    37
+   ],
+   [
+    17,
+    38
+   ],
+   [
+    17,
+    39
+   ],
+   [
+    17,
+    40
+   ],
+   [
+    17,
+    41
+   ]
+  ],
+  "n_verses": 18,
+  "genre": "narrative",
+  "density": 0.2222222222222222,
+  "familiarity": 41.833333333333336,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|narrative|high|mid",
+  "split": "design",
+  "focus": [
+   [
+    17,
+    26
+   ],
+   [
+    17,
+    27
+   ]
+  ],
+  "window": [
+   [
+    17,
+    24
+   ],
+   [
+    17,
+    25
+   ],
+   [
+    17,
+    26
+   ],
+   [
+    17,
+    27
+   ],
+   [
+    17,
+    28
+   ],
+   [
+    17,
+    29
+   ]
+  ],
+  "lexemes": [
+   "אֲרִי",
+   "יָרָה",
+   "גָּלָה"
+  ],
+  "pericope_ref": "2 Kings 17:24-41",
+  "focus_ref": "2 Kings 17:26-27",
+  "window_ref": "2 Kings 17:24-29",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Deut.29.9-29.28",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    29,
+    9
+   ],
+   [
+    29,
+    10
+   ],
+   [
+    29,
+    11
+   ],
+   [
+    29,
+    12
+   ],
+   [
+    29,
+    13
+   ],
+   [
+    29,
+    14
+   ],
+   [
+    29,
+    15
+   ],
+   [
+    29,
+    16
+   ],
+   [
+    29,
+    17
+   ],
+   [
+    29,
+    18
+   ],
+   [
+    29,
+    19
+   ],
+   [
+    29,
+    20
+   ],
+   [
+    29,
+    21
+   ],
+   [
+    29,
+    22
+   ],
+   [
+    29,
+    23
+   ],
+   [
+    29,
+    24
+   ],
+   [
+    29,
+    25
+   ],
+   [
+    29,
+    26
+   ],
+   [
+    29,
+    27
+   ],
+   [
+    29,
+    28
+   ]
+  ],
+  "n_verses": 20,
+  "genre": "discourse",
+  "density": 0.1,
+  "familiarity": 88.05,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "hebrew|discourse|high|high",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    29,
+    18
+   ],
+   [
+    29,
+    19
+   ]
+  ],
+  "window": [
+   [
+    29,
+    16
+   ],
+   [
+    29,
+    17
+   ],
+   [
+    29,
+    18
+   ],
+   [
+    29,
+    19
+   ],
+   [
+    29,
+    20
+   ],
+   [
+    29,
+    21
+   ]
+  ],
+  "lexemes": [
+   "עָשַׁן",
+   "צָמֵא",
+   "שְׁרִירוּת"
+  ],
+  "pericope_ref": "Deuteronomy 29:9-28",
+  "focus_ref": "Deuteronomy 29:18-19",
+  "window_ref": "Deuteronomy 29:16-21",
+  "fixed": false
+ },
+ {
+  "id": "Deut.30.1-30.10",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    30,
+    1
+   ],
+   [
+    30,
+    2
+   ],
+   [
+    30,
+    3
+   ],
+   [
+    30,
+    4
+   ],
+   [
+    30,
+    5
+   ],
+   [
+    30,
+    6
+   ],
+   [
+    30,
+    7
+   ],
+   [
+    30,
+    8
+   ],
+   [
+    30,
+    9
+   ],
+   [
+    30,
+    10
+   ]
+  ],
+  "n_verses": 10,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 216.0,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "hebrew|discourse|low|high",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    30,
+    3
+   ],
+   [
+    30,
+    4
+   ]
+  ],
+  "window": [
+   [
+    30,
+    1
+   ],
+   [
+    30,
+    2
+   ],
+   [
+    30,
+    3
+   ],
+   [
+    30,
+    4
+   ],
+   [
+    30,
+    5
+   ],
+   [
+    30,
+    6
+   ]
+  ],
+  "lexemes": [
+   "שְׁבוּת",
+   "רָחַם",
+   "נָדַח"
+  ],
+  "pericope_ref": "Deuteronomy 30:1-10",
+  "focus_ref": "Deuteronomy 30:3-4",
+  "window_ref": "Deuteronomy 30:1-6",
+  "fixed": false
+ },
+ {
+  "id": "Jer.19.6-19.13",
+  "lang": "hebrew",
+  "book": "Jer",
+  "verses": [
+   [
+    19,
+    6
+   ],
+   [
+    19,
+    7
+   ],
+   [
+    19,
+    8
+   ],
+   [
+    19,
+    9
+   ],
+   [
+    19,
+    10
+   ],
+   [
+    19,
+    11
+   ],
+   [
+    19,
+    12
+   ],
+   [
+    19,
+    13
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 0.0,
+  "familiarity": 66.25,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|poetry|low|mid",
+  "split": "design",
+  "focus": [
+   [
+    19,
+    11
+   ],
+   [
+    19,
+    12
+   ]
+  ],
+  "window": [
+   [
+    19,
+    9
+   ],
+   [
+    19,
+    10
+   ],
+   [
+    19,
+    11
+   ],
+   [
+    19,
+    12
+   ],
+   [
+    19,
+    13
+   ]
+  ],
+  "lexemes": [
+   "יָצַר",
+   "רָפָא",
+   "קָבַר"
+  ],
+  "pericope_ref": "Jeremiah 19:6-13",
+  "focus_ref": "Jeremiah 19:11-12",
+  "window_ref": "Jeremiah 19:9-13",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Jer.22.20-22.27",
+  "lang": "hebrew",
+  "book": "Jer",
+  "verses": [
+   [
+    22,
+    20
+   ],
+   [
+    22,
+    21
+   ],
+   [
+    22,
+    22
+   ],
+   [
+    22,
+    23
+   ],
+   [
+    22,
+    24
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    22,
+    26
+   ],
+   [
+    22,
+    27
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 0.5,
+  "familiarity": 64.5,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|poetry|high|mid",
+  "split": "design",
+  "half": true,
+  "focus": [
+   [
+    22,
+    22
+   ],
+   [
+    22,
+    23
+   ]
+  ],
+  "window": [
+   [
+    22,
+    20
+   ],
+   [
+    22,
+    21
+   ],
+   [
+    22,
+    22
+   ],
+   [
+    22,
+    23
+   ],
+   [
+    22,
+    24
+   ],
+   [
+    22,
+    25
+   ]
+  ],
+  "lexemes": [
+   "קָנַן",
+   "חִיל",
+   "כָּלַם"
+  ],
+  "pericope_ref": "Jeremiah 22:20-27",
+  "focus_ref": "Jeremiah 22:22-23",
+  "window_ref": "Jeremiah 22:20-25",
+  "fixed": false
+ },
+ {
+  "id": "Lev.23.15-23.22",
+  "lang": "hebrew",
+  "book": "Lev",
+  "verses": [
+   [
+    23,
+    15
+   ],
+   [
+    23,
+    16
+   ],
+   [
+    23,
+    17
+   ],
+   [
+    23,
+    18
+   ],
+   [
+    23,
+    19
+   ],
+   [
+    23,
+    20
+   ],
+   [
+    23,
+    21
+   ],
+   [
+    23,
+    22
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 41.375,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|discourse|low|mid",
+  "split": "design",
+  "focus": [
+   [
+    23,
+    17
+   ],
+   [
+    23,
+    18
+   ]
+  ],
+  "window": [
+   [
+    23,
+    15
+   ],
+   [
+    23,
+    16
+   ],
+   [
+    23,
+    17
+   ],
+   [
+    23,
+    18
+   ],
+   [
+    23,
+    19
+   ],
+   [
+    23,
+    20
+   ]
+  ],
+  "lexemes": [
+   "חָמֵץ",
+   "בִּכּוּר",
+   "אָפָה"
+  ],
+  "pericope_ref": "Leviticus 23:15-22",
+  "focus_ref": "Leviticus 23:17-18",
+  "window_ref": "Leviticus 23:15-20",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "2Kgs.20.12-20.21",
+  "lang": "hebrew",
+  "book": "2Kgs",
+  "verses": [
+   [
+    20,
+    12
+   ],
+   [
+    20,
+    13
+   ],
+   [
+    20,
+    14
+   ],
+   [
+    20,
+    15
+   ],
+   [
+    20,
+    16
+   ],
+   [
+    20,
+    17
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    19
+   ],
+   [
+    20,
+    20
+   ],
+   [
+    20,
+    21
+   ]
+  ],
+  "n_verses": 10,
+  "genre": "narrative",
+  "density": 0.2,
+  "familiarity": 33.9,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|narrative|high|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    20,
+    17
+   ],
+   [
+    20,
+    18
+   ]
+  ],
+  "window": [
+   [
+    20,
+    15
+   ],
+   [
+    20,
+    16
+   ],
+   [
+    20,
+    17
+   ],
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    19
+   ],
+   [
+    20,
+    20
+   ]
+  ],
+  "lexemes": [
+   "אָצַר",
+   "סָרִיס",
+   "הֵיכָל"
+  ],
+  "pericope_ref": "2 Kings 20:12-21",
+  "focus_ref": "2 Kings 20:17-18",
+  "window_ref": "2 Kings 20:15-20",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Deut.8.1-8.18",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    8,
+    1
+   ],
+   [
+    8,
+    2
+   ],
+   [
+    8,
+    3
+   ],
+   [
+    8,
+    4
+   ],
+   [
+    8,
+    5
+   ],
+   [
+    8,
+    6
+   ],
+   [
+    8,
+    7
+   ],
+   [
+    8,
+    8
+   ],
+   [
+    8,
+    9
+   ],
+   [
+    8,
+    10
+   ],
+   [
+    8,
+    11
+   ],
+   [
+    8,
+    12
+   ],
+   [
+    8,
+    13
+   ],
+   [
+    8,
+    14
+   ],
+   [
+    8,
+    15
+   ],
+   [
+    8,
+    16
+   ],
+   [
+    8,
+    17
+   ],
+   [
+    8,
+    18
+   ]
+  ],
+  "n_verses": 18,
+  "genre": "discourse",
+  "density": 0.1111111111111111,
+  "familiarity": 229.83333333333334,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "hebrew|discourse|high|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    8,
+    2
+   ],
+   [
+    8,
+    3
+   ]
+  ],
+  "window": [
+   [
+    8,
+    1
+   ],
+   [
+    8,
+    2
+   ],
+   [
+    8,
+    3
+   ],
+   [
+    8,
+    4
+   ],
+   [
+    8,
+    5
+   ]
+  ],
+  "lexemes": [
+   "רָעֵב",
+   "מָן",
+   "מוֹצָא"
+  ],
+  "pericope_ref": "Deuteronomy 8:1-18",
+  "focus_ref": "Deuteronomy 8:2-3",
+  "window_ref": "Deuteronomy 8:1-5",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Exod.15.1-15.19",
+  "lang": "hebrew",
+  "book": "Exod",
+  "verses": [
+   [
+    15,
+    1
+   ],
+   [
+    15,
+    2
+   ],
+   [
+    15,
+    3
+   ],
+   [
+    15,
+    4
+   ],
+   [
+    15,
+    5
+   ],
+   [
+    15,
+    6
+   ],
+   [
+    15,
+    7
+   ],
+   [
+    15,
+    8
+   ],
+   [
+    15,
+    9
+   ],
+   [
+    15,
+    10
+   ],
+   [
+    15,
+    11
+   ],
+   [
+    15,
+    12
+   ],
+   [
+    15,
+    13
+   ],
+   [
+    15,
+    14
+   ],
+   [
+    15,
+    15
+   ],
+   [
+    15,
+    16
+   ],
+   [
+    15,
+    17
+   ],
+   [
+    15,
+    18
+   ],
+   [
+    15,
+    19
+   ]
+  ],
+  "n_verses": 19,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 209.0,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "hebrew|narrative|low|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    15,
+    8
+   ],
+   [
+    15,
+    9
+   ]
+  ],
+  "window": [
+   [
+    15,
+    6
+   ],
+   [
+    15,
+    7
+   ],
+   [
+    15,
+    8
+   ],
+   [
+    15,
+    9
+   ],
+   [
+    15,
+    10
+   ],
+   [
+    15,
+    11
+   ]
+  ],
+  "lexemes": [
+   "קָפָא",
+   "נֵד",
+   "נָזַל"
+  ],
+  "pericope_ref": "Exodus 15:1-19",
+  "focus_ref": "Exodus 15:8-9",
+  "window_ref": "Exodus 15:6-11",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Ezek.39.1-39.10",
+  "lang": "hebrew",
+  "book": "Ezek",
+  "verses": [
+   [
+    39,
+    1
+   ],
+   [
+    39,
+    2
+   ],
+   [
+    39,
+    3
+   ],
+   [
+    39,
+    4
+   ],
+   [
+    39,
+    5
+   ],
+   [
+    39,
+    6
+   ],
+   [
+    39,
+    7
+   ],
+   [
+    39,
+    8
+   ],
+   [
+    39,
+    9
+   ],
+   [
+    39,
+    10
+   ]
+  ],
+  "n_verses": 10,
+  "genre": "poetry",
+  "density": 0.0,
+  "familiarity": 60.6,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|poetry|low|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    39,
+    8
+   ],
+   [
+    39,
+    9
+   ]
+  ],
+  "window": [
+   [
+    39,
+    6
+   ],
+   [
+    39,
+    7
+   ],
+   [
+    39,
+    8
+   ],
+   [
+    39,
+    9
+   ],
+   [
+    39,
+    10
+   ]
+  ],
+  "lexemes": [
+   "נֶשֶׁק",
+   "רֹמַח",
+   "מַקֵּל"
+  ],
+  "pericope_ref": "Ezekiel 39:1-10",
+  "focus_ref": "Ezekiel 39:8-9",
+  "window_ref": "Ezekiel 39:6-10",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Ezek.46.1-46.11",
+  "lang": "hebrew",
+  "book": "Ezek",
+  "verses": [
+   [
+    46,
+    1
+   ],
+   [
+    46,
+    2
+   ],
+   [
+    46,
+    3
+   ],
+   [
+    46,
+    4
+   ],
+   [
+    46,
+    5
+   ],
+   [
+    46,
+    6
+   ],
+   [
+    46,
+    7
+   ],
+   [
+    46,
+    8
+   ],
+   [
+    46,
+    9
+   ],
+   [
+    46,
+    10
+   ],
+   [
+    46,
+    11
+   ]
+  ],
+  "n_verses": 11,
+  "genre": "poetry",
+  "density": 0.18181818181818182,
+  "familiarity": 32.72727272727273,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|poetry|high|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    46,
+    9
+   ],
+   [
+    46,
+    10
+   ]
+  ],
+  "window": [
+   [
+    46,
+    7
+   ],
+   [
+    46,
+    8
+   ],
+   [
+    46,
+    9
+   ],
+   [
+    46,
+    10
+   ],
+   [
+    46,
+    11
+   ]
+  ],
+  "lexemes": [
+   "נֶגֶב",
+   "נָשִׂיא",
+   "צָפוֹן"
+  ],
+  "pericope_ref": "Ezekiel 46:1-11",
+  "focus_ref": "Ezekiel 46:9-10",
+  "window_ref": "Ezekiel 46:7-11",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Isa.41.21-41.29",
+  "lang": "hebrew",
+  "book": "Isa",
+  "verses": [
+   [
+    41,
+    21
+   ],
+   [
+    41,
+    22
+   ],
+   [
+    41,
+    23
+   ],
+   [
+    41,
+    24
+   ],
+   [
+    41,
+    25
+   ],
+   [
+    41,
+    26
+   ],
+   [
+    41,
+    27
+   ],
+   [
+    41,
+    28
+   ],
+   [
+    41,
+    29
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "poetry",
+  "density": 0.2222222222222222,
+  "familiarity": 71.33333333333333,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|poetry|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    41,
+    22
+   ],
+   [
+    41,
+    23
+   ]
+  ],
+  "window": [
+   [
+    41,
+    21
+   ],
+   [
+    41,
+    22
+   ],
+   [
+    41,
+    23
+   ],
+   [
+    41,
+    24
+   ],
+   [
+    41,
+    25
+   ]
+  ],
+  "lexemes": [
+   "שָׁעָה",
+   "אָתָה",
+   "קָרָה"
+  ],
+  "pericope_ref": "Isaiah 41:21-29",
+  "focus_ref": "Isaiah 41:22-23",
+  "window_ref": "Isaiah 41:21-25",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Judg.14.20-15.8",
+  "lang": "hebrew",
+  "book": "Judg",
+  "verses": [
+   [
+    14,
+    20
+   ],
+   [
+    15,
+    1
+   ],
+   [
+    15,
+    2
+   ],
+   [
+    15,
+    3
+   ],
+   [
+    15,
+    4
+   ],
+   [
+    15,
+    5
+   ],
+   [
+    15,
+    6
+   ],
+   [
+    15,
+    7
+   ],
+   [
+    15,
+    8
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 20.333333333333332,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "hebrew|narrative|low|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    15,
+    1
+   ],
+   [
+    15,
+    2
+   ]
+  ],
+  "window": [
+   [
+    14,
+    20
+   ],
+   [
+    15,
+    1
+   ],
+   [
+    15,
+    2
+   ],
+   [
+    15,
+    3
+   ],
+   [
+    15,
+    4
+   ]
+  ],
+  "lexemes": [
+   "מֵרֵעַ",
+   "גְּדִי",
+   "חִטָּה"
+  ],
+  "pericope_ref": "Judges 14:20-15:8",
+  "focus_ref": "Judges 15:1-2",
+  "window_ref": "Judges 14:20-15:4",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Lev.11.1-11.20",
+  "lang": "hebrew",
+  "book": "Lev",
+  "verses": [
+   [
+    11,
+    1
+   ],
+   [
+    11,
+    2
+   ],
+   [
+    11,
+    3
+   ],
+   [
+    11,
+    4
+   ],
+   [
+    11,
+    5
+   ],
+   [
+    11,
+    6
+   ],
+   [
+    11,
+    7
+   ],
+   [
+    11,
+    8
+   ],
+   [
+    11,
+    9
+   ],
+   [
+    11,
+    10
+   ],
+   [
+    11,
+    11
+   ],
+   [
+    11,
+    12
+   ],
+   [
+    11,
+    13
+   ],
+   [
+    11,
+    14
+   ],
+   [
+    11,
+    15
+   ],
+   [
+    11,
+    16
+   ],
+   [
+    11,
+    17
+   ],
+   [
+    11,
+    18
+   ],
+   [
+    11,
+    19
+   ],
+   [
+    11,
+    20
+   ]
+  ],
+  "n_verses": 20,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 19.45,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "hebrew|discourse|low|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    11,
+    3
+   ],
+   [
+    11,
+    4
+   ]
+  ],
+  "window": [
+   [
+    11,
+    1
+   ],
+   [
+    11,
+    2
+   ],
+   [
+    11,
+    3
+   ],
+   [
+    11,
+    4
+   ],
+   [
+    11,
+    5
+   ],
+   [
+    11,
+    6
+   ]
+  ],
+  "lexemes": [
+   "שָׁסַע",
+   "גֵּרָה",
+   "פָּרַס"
+  ],
+  "pericope_ref": "Leviticus 11:1-20",
+  "focus_ref": "Leviticus 11:3-4",
+  "window_ref": "Leviticus 11:1-6",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Lev.21.1-21.9",
+  "lang": "hebrew",
+  "book": "Lev",
+  "verses": [
+   [
+    21,
+    1
+   ],
+   [
+    21,
+    2
+   ],
+   [
+    21,
+    3
+   ],
+   [
+    21,
+    4
+   ],
+   [
+    21,
+    5
+   ],
+   [
+    21,
+    6
+   ],
+   [
+    21,
+    7
+   ],
+   [
+    21,
+    8
+   ],
+   [
+    21,
+    9
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "discourse",
+  "density": 0.2222222222222222,
+  "familiarity": 55.111111111111114,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|discourse|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    21,
+    5
+   ],
+   [
+    21,
+    6
+   ]
+  ],
+  "window": [
+   [
+    21,
+    3
+   ],
+   [
+    21,
+    4
+   ],
+   [
+    21,
+    5
+   ],
+   [
+    21,
+    6
+   ],
+   [
+    21,
+    7
+   ],
+   [
+    21,
+    8
+   ]
+  ],
+  "lexemes": [
+   "קָרַח",
+   "קׇרְחָה",
+   "זָקָן"
+  ],
+  "pericope_ref": "Leviticus 21:1-9",
+  "focus_ref": "Leviticus 21:5-6",
+  "window_ref": "Leviticus 21:3-8",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Lev.27.1-27.8",
+  "lang": "hebrew",
+  "book": "Lev",
+  "verses": [
+   [
+    27,
+    1
+   ],
+   [
+    27,
+    2
+   ],
+   [
+    27,
+    3
+   ],
+   [
+    27,
+    4
+   ],
+   [
+    27,
+    5
+   ],
+   [
+    27,
+    6
+   ],
+   [
+    27,
+    7
+   ],
+   [
+    27,
+    8
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 16.5,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "hebrew|discourse|low|low",
+  "split": "evaluation",
+  "focus": [
+   [
+    27,
+    2
+   ],
+   [
+    27,
+    3
+   ]
+  ],
+  "window": [
+   [
+    27,
+    1
+   ],
+   [
+    27,
+    2
+   ],
+   [
+    27,
+    3
+   ],
+   [
+    27,
+    4
+   ],
+   [
+    27,
+    5
+   ]
+  ],
+  "lexemes": [
+   "עֵרֶךְ",
+   "שִׁשִּׁים",
+   "נֶדֶר"
+  ],
+  "pericope_ref": "Leviticus 27:1-8",
+  "focus_ref": "Leviticus 27:2-3",
+  "window_ref": "Leviticus 27:1-5",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Neh.13.23-13.31",
+  "lang": "hebrew",
+  "book": "Neh",
+  "verses": [
+   [
+    13,
+    23
+   ],
+   [
+    13,
+    24
+   ],
+   [
+    13,
+    25
+   ],
+   [
+    13,
+    26
+   ],
+   [
+    13,
+    27
+   ],
+   [
+    13,
+    28
+   ],
+   [
+    13,
+    29
+   ],
+   [
+    13,
+    30
+   ],
+   [
+    13,
+    31
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "narrative",
+  "density": 0.4444444444444444,
+  "familiarity": 64.0,
+  "dens_stratum": "high",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|narrative|high|mid",
+  "split": "evaluation",
+  "focus": [
+   [
+    13,
+    25
+   ],
+   [
+    13,
+    26
+   ]
+  ],
+  "window": [
+   [
+    13,
+    23
+   ],
+   [
+    13,
+    24
+   ],
+   [
+    13,
+    25
+   ],
+   [
+    13,
+    26
+   ],
+   [
+    13,
+    27
+   ],
+   [
+    13,
+    28
+   ]
+  ],
+  "lexemes": [
+   "מָרַט",
+   "נׇכְרִי",
+   "רִיב"
+  ],
+  "pericope_ref": "Nehemiah 13:23-31",
+  "focus_ref": "Nehemiah 13:25-26",
+  "window_ref": "Nehemiah 13:23-28",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Prov.22.22-22.29",
+  "lang": "hebrew",
+  "book": "Prov",
+  "verses": [
+   [
+    22,
+    22
+   ],
+   [
+    22,
+    23
+   ],
+   [
+    22,
+    24
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    22,
+    26
+   ],
+   [
+    22,
+    27
+   ],
+   [
+    22,
+    28
+   ],
+   [
+    22,
+    29
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 0.25,
+  "familiarity": 107.375,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "hebrew|poetry|high|high",
+  "split": "evaluation",
+  "focus": [
+   [
+    22,
+    25
+   ],
+   [
+    22,
+    26
+   ]
+  ],
+  "window": [
+   [
+    22,
+    23
+   ],
+   [
+    22,
+    24
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    22,
+    26
+   ],
+   [
+    22,
+    27
+   ],
+   [
+    22,
+    28
+   ]
+  ],
+  "lexemes": [
+   "עָרַב",
+   "מוֹקֵשׁ",
+   "אֹרַח"
+  ],
+  "pericope_ref": "Proverbs 22:22-29",
+  "focus_ref": "Proverbs 22:25-26",
+  "window_ref": "Proverbs 22:23-28",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "1Chr.2.8-2.20",
+  "lang": "hebrew",
+  "book": "1Chr",
+  "verses": [
+   [
+    2,
+    8
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    11
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    13
+   ],
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ],
+   [
+    2,
+    20
+   ]
+  ],
+  "n_verses": 13,
+  "genre": "narrative",
+  "density": 0.15384615384615385,
+  "familiarity": 20.923076923076923,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|narrative|high|low",
+  "split": "probe",
+  "focus": [
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ]
+  ],
+  "window": [
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    17
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    19
+   ]
+  ],
+  "lexemes": [
+   "יִשְׁמָעֵאלִי",
+   "אָחוֹת",
+   "שָׁלוֹשׁ"
+  ],
+  "pericope_ref": "1 Chronicles 2:8-20",
+  "focus_ref": "1 Chronicles 2:16-17",
+  "window_ref": "1 Chronicles 2:14-19",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Deut.2.9-2.16",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    2,
+    9
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    11
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    13
+   ],
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ],
+   [
+    2,
+    16
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 41.875,
+  "dens_stratum": "low",
+  "fam_tercile": "mid",
+  "stratum": "hebrew|discourse|low|mid",
+  "split": "probe",
+  "focus": [
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    13
+   ]
+  ],
+  "window": [
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    11
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    13
+   ],
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    15
+   ]
+  ],
+  "lexemes": [
+   "חֹרִי",
+   "יְרֻשָּׁה",
+   "שָׁמַד"
+  ],
+  "pericope_ref": "Deuteronomy 2:9-16",
+  "focus_ref": "Deuteronomy 2:12-13",
+  "window_ref": "Deuteronomy 2:10-15",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Deut.5.22-6.3",
+  "lang": "hebrew",
+  "book": "Deut",
+  "verses": [
+   [
+    5,
+    22
+   ],
+   [
+    5,
+    23
+   ],
+   [
+    5,
+    24
+   ],
+   [
+    5,
+    25
+   ],
+   [
+    5,
+    26
+   ],
+   [
+    5,
+    27
+   ],
+   [
+    5,
+    28
+   ],
+   [
+    5,
+    29
+   ],
+   [
+    5,
+    30
+   ],
+   [
+    5,
+    31
+   ],
+   [
+    5,
+    32
+   ],
+   [
+    5,
+    33
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    6,
+    2
+   ],
+   [
+    6,
+    3
+   ]
+  ],
+  "n_verses": 15,
+  "genre": "discourse",
+  "density": 0.0,
+  "familiarity": 128.26666666666668,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "hebrew|discourse|low|high",
+  "split": "probe",
+  "focus": [
+   [
+    5,
+    27
+   ],
+   [
+    5,
+    28
+   ]
+  ],
+  "window": [
+   [
+    5,
+    25
+   ],
+   [
+    5,
+    26
+   ],
+   [
+    5,
+    27
+   ],
+   [
+    5,
+    28
+   ],
+   [
+    5,
+    29
+   ],
+   [
+    5,
+    30
+   ]
+  ],
+  "lexemes": [
+   "יָטַב",
+   "קָרַב",
+   "קוֹל"
+  ],
+  "pericope_ref": "Deuteronomy 5:22-6:3",
+  "focus_ref": "Deuteronomy 5:27-28",
+  "window_ref": "Deuteronomy 5:25-30",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Ezek.19.1-19.9",
+  "lang": "hebrew",
+  "book": "Ezek",
+  "verses": [
+   [
+    19,
+    1
+   ],
+   [
+    19,
+    2
+   ],
+   [
+    19,
+    3
+   ],
+   [
+    19,
+    4
+   ],
+   [
+    19,
+    5
+   ],
+   [
+    19,
+    6
+   ],
+   [
+    19,
+    7
+   ],
+   [
+    19,
+    8
+   ],
+   [
+    19,
+    9
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "poetry",
+  "density": 0.0,
+  "familiarity": 34.0,
+  "dens_stratum": "low",
+  "fam_tercile": "low",
+  "stratum": "hebrew|poetry|low|low",
+  "split": "probe",
+  "focus": [
+   [
+    19,
+    5
+   ],
+   [
+    19,
+    6
+   ]
+  ],
+  "window": [
+   [
+    19,
+    3
+   ],
+   [
+    19,
+    4
+   ],
+   [
+    19,
+    5
+   ],
+   [
+    19,
+    6
+   ],
+   [
+    19,
+    7
+   ],
+   [
+    19,
+    8
+   ]
+  ],
+  "lexemes": [
+   "גּוּר",
+   "טֶרֶף",
+   "טָרַף"
+  ],
+  "pericope_ref": "Ezekiel 19:1-9",
+  "focus_ref": "Ezekiel 19:5-6",
+  "window_ref": "Ezekiel 19:3-8",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Ezek.4.4-4.12",
+  "lang": "hebrew",
+  "book": "Ezek",
+  "verses": [
+   [
+    4,
+    4
+   ],
+   [
+    4,
+    5
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    4,
+    7
+   ],
+   [
+    4,
+    8
+   ],
+   [
+    4,
+    9
+   ],
+   [
+    4,
+    10
+   ],
+   [
+    4,
+    11
+   ],
+   [
+    4,
+    12
+   ]
+  ],
+  "n_verses": 9,
+  "genre": "poetry",
+  "density": 0.2222222222222222,
+  "familiarity": 21.333333333333332,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|poetry|high|low",
+  "split": "probe",
+  "focus": [
+   [
+    4,
+    6
+   ],
+   [
+    4,
+    7
+   ]
+  ],
+  "window": [
+   [
+    4,
+    4
+   ],
+   [
+    4,
+    5
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    4,
+    7
+   ],
+   [
+    4,
+    8
+   ],
+   [
+    4,
+    9
+   ]
+  ],
+  "lexemes": [
+   "יְמִינִי",
+   "חָשַׂף",
+   "מָצוֹר"
+  ],
+  "pericope_ref": "Ezekiel 4:4-12",
+  "focus_ref": "Ezekiel 4:6-7",
+  "window_ref": "Ezekiel 4:4-9",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Jer.7.21-7.28",
+  "lang": "hebrew",
+  "book": "Jer",
+  "verses": [
+   [
+    7,
+    21
+   ],
+   [
+    7,
+    22
+   ],
+   [
+    7,
+    23
+   ],
+   [
+    7,
+    24
+   ],
+   [
+    7,
+    25
+   ],
+   [
+    7,
+    26
+   ],
+   [
+    7,
+    27
+   ],
+   [
+    7,
+    28
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "poetry",
+  "density": 0.25,
+  "familiarity": 178.25,
+  "dens_stratum": "high",
+  "fam_tercile": "high",
+  "stratum": "hebrew|poetry|high|high",
+  "split": "probe",
+  "focus": [
+   [
+    7,
+    22
+   ],
+   [
+    7,
+    23
+   ]
+  ],
+  "window": [
+   [
+    7,
+    21
+   ],
+   [
+    7,
+    22
+   ],
+   [
+    7,
+    23
+   ],
+   [
+    7,
+    24
+   ],
+   [
+    7,
+    25
+   ]
+  ],
+  "lexemes": [
+   "יָטַב",
+   "זֶבַח",
+   "עֹלָה"
+  ],
+  "pericope_ref": "Jeremiah 7:21-28",
+  "focus_ref": "Jeremiah 7:22-23",
+  "window_ref": "Jeremiah 7:21-25",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Josh.23.1-23.16",
+  "lang": "hebrew",
+  "book": "Josh",
+  "verses": [
+   [
+    23,
+    1
+   ],
+   [
+    23,
+    2
+   ],
+   [
+    23,
+    3
+   ],
+   [
+    23,
+    4
+   ],
+   [
+    23,
+    5
+   ],
+   [
+    23,
+    6
+   ],
+   [
+    23,
+    7
+   ],
+   [
+    23,
+    8
+   ],
+   [
+    23,
+    9
+   ],
+   [
+    23,
+    10
+   ],
+   [
+    23,
+    11
+   ],
+   [
+    23,
+    12
+   ],
+   [
+    23,
+    13
+   ],
+   [
+    23,
+    14
+   ],
+   [
+    23,
+    15
+   ],
+   [
+    23,
+    16
+   ]
+  ],
+  "n_verses": 16,
+  "genre": "narrative",
+  "density": 0.0,
+  "familiarity": 439.5,
+  "dens_stratum": "low",
+  "fam_tercile": "high",
+  "stratum": "hebrew|narrative|low|high",
+  "split": "probe",
+  "focus": [
+   [
+    23,
+    12
+   ],
+   [
+    23,
+    13
+   ]
+  ],
+  "window": [
+   [
+    23,
+    10
+   ],
+   [
+    23,
+    11
+   ],
+   [
+    23,
+    12
+   ],
+   [
+    23,
+    13
+   ],
+   [
+    23,
+    14
+   ],
+   [
+    23,
+    15
+   ]
+  ],
+  "lexemes": [
+   "מוֹקֵשׁ",
+   "פַּח",
+   "חָתַן"
+  ],
+  "pericope_ref": "Joshua 23:1-16",
+  "focus_ref": "Joshua 23:12-13",
+  "window_ref": "Joshua 23:10-15",
+  "half": false,
+  "fixed": false
+ },
+ {
+  "id": "Lev.11.21-11.28",
+  "lang": "hebrew",
+  "book": "Lev",
+  "verses": [
+   [
+    11,
+    21
+   ],
+   [
+    11,
+    22
+   ],
+   [
+    11,
+    23
+   ],
+   [
+    11,
+    24
+   ],
+   [
+    11,
+    25
+   ],
+   [
+    11,
+    26
+   ],
+   [
+    11,
+    27
+   ],
+   [
+    11,
+    28
+   ]
+  ],
+  "n_verses": 8,
+  "genre": "discourse",
+  "density": 0.25,
+  "familiarity": 29.375,
+  "dens_stratum": "high",
+  "fam_tercile": "low",
+  "stratum": "hebrew|discourse|high|low",
+  "split": "probe",
+  "focus": [
+   [
+    11,
+    26
+   ],
+   [
+    11,
+    27
+   ]
+  ],
+  "window": [
+   [
+    11,
+    24
+   ],
+   [
+    11,
+    25
+   ],
+   [
+    11,
+    26
+   ],
+   [
+    11,
+    27
+   ],
+   [
+    11,
+    28
+   ]
+  ],
+  "lexemes": [
+   "שָׁסַע",
+   "גֵּרָה",
+   "פָּרַס"
+  ],
+  "pericope_ref": "Leviticus 11:21-28",
+  "focus_ref": "Leviticus 11:26-27",
+  "window_ref": "Leviticus 11:24-28",
+  "half": false,
+  "fixed": false
+ }
+]

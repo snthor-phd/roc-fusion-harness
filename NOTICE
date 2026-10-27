@@ -1,0 +1,10 @@
+roc-fusion-harness
+Copyright 2026 Steven N. Thorsen
+
+This product includes software developed by Steven N. Thorsen.
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Open data used at run time (not included in this repository):
+SBLGNT (CC BY 4.0, Society of Biblical Literature and Logos Bible Software),
+MorphGNT (CC BY-SA), OSHB/WLC (CC BY 4.0), Robinson-Pierpont (public domain),
+Swete LXX via First1KGreek (CC BY-SA 4.0), OpenBible.info cross-references (CC BY).

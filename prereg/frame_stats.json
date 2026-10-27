@@ -1,0 +1,13 @@
+{
+ "seed": 20261012,
+ "frame_units": 930,
+ "by_lang_genre": {
+  "greek|narrative": 168,
+  "greek|discourse": 87,
+  "greek|poetry": 2,
+  "hebrew|narrative": 389,
+  "hebrew|discourse": 69,
+  "hebrew|poetry": 215
+ },
+ "familiarity_source": "OpenBible.info cross-reference votes (CC-BY), mean votes per verse"
+}

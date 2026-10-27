@@ -1,0 +1,112 @@
+{
+ "passages": 24,
+ "missing": [],
+ "draft": {
+  "all": {
+   "hr": 0.1268,
+   "lo95": 0.0988,
+   "hi95": 0.1569,
+   "ub95": 0.152,
+   "claims": 1199,
+   "passages": 24
+  },
+  "greek": {
+   "hr": 0.1519,
+   "lo95": 0.1013,
+   "hi95": 0.202,
+   "ub95": 0.1942,
+   "claims": 599,
+   "passages": 12
+  },
+  "hebrew": {
+   "hr": 0.1017,
+   "lo95": 0.0781,
+   "hi95": 0.122,
+   "ub95": 0.1189,
+   "claims": 600,
+   "passages": 12
+  }
+ },
+ "final": {
+  "all": {
+   "hr": 0.0283,
+   "lo95": 0.0179,
+   "hi95": 0.0384,
+   "ub95": 0.0369,
+   "claims": 1060,
+   "passages": 24
+  },
+  "greek": {
+   "hr": 0.0328,
+   "lo95": 0.0184,
+   "hi95": 0.0452,
+   "ub95": 0.0435,
+   "claims": 518,
+   "passages": 12
+  },
+  "hebrew": {
+   "hr": 0.024,
+   "lo95": 0.0094,
+   "hi95": 0.0394,
+   "ub95": 0.0367,
+   "claims": 542,
+   "passages": 12
+  }
+ },
+ "retention": {
+  "all": {
+   "retention": 0.9245,
+   "pairs": 24,
+   "contradicted": 3
+  },
+  "greek": {
+   "retention": 0.9094,
+   "pairs": 12,
+   "contradicted": 1
+  },
+  "hebrew": {
+   "retention": 0.9388,
+   "pairs": 12,
+   "contradicted": 2
+  }
+ },
+ "paired_drop": {
+  "all": {
+   "mean": -0.0981,
+   "lo95": -0.1264,
+   "hi95": -0.0705
+  },
+  "greek": {
+   "mean": -0.1197,
+   "lo95": -0.1687,
+   "hi95": -0.0718
+  },
+  "hebrew": {
+   "mean": -0.0765,
+   "lo95": -0.0981,
+   "hi95": -0.0541
+  }
+ },
+ "flags_per_answer": 6.5,
+ "no_flag_answers": 0,
+ "cuts_per_answer": 1.0,
+ "truncated": [],
+ "gate": {
+  "greek_ub_lt_30": true,
+  "hebrew_ub_lt_30": true,
+  "greek_retention_ge_70": true,
+  "hebrew_retention_ge_70": true,
+  "PASS": true
+ },
+ "judge": {
+  "seeded": 10,
+  "seeded_caught": 10,
+  "seeded_detection": 1.0,
+  "audit_n": 206,
+  "audit_agreement": 0.9757281553398058,
+  "judge_sensitivity_vs_v1": 0.8181818181818182,
+  "judge_specificity_vs_v1": 0.9846153846153847,
+  "citations_checked": 1191,
+  "citation_fail_rate": 0.005877413937867338
+ }
+}
